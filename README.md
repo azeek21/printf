@@ -18,5 +18,5 @@ and it runs all the mandatory test.
 
 <h3 style="color: green;"> Results from tester of Tripoulle </h3>
 <hr>
-<img stlye="max-height: 500px; height: auto; with: auto;" src="Screen Shot 2021-10-29 at 7.10.28 PM.png" />
+<img stlye="max-with: 500px; height: auto; with: auto;" src="Screen Shot 2021-10-29 at 7.10.28 PM.png" />
 <hr>
