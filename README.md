@@ -2,7 +2,7 @@
 Another project at School 21. This time I wrote my own ```ft_printf()``` function that mimics the original ```printf()```
 function from ```<stdio.h>``` library.
 
-<p stlye="color: red;"> without bonus </p>
+<p style="color: red;"> without bonus </p>
 
 * You can clone the repository and run your own test. 
 * or, use tester inside the ```printfTester``` directory.
