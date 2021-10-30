@@ -19,7 +19,6 @@ and it runs all the mandatory test.
 <h3 style="color: green;"> Results from tester of Tripoulle </h3>
 <hr/>
 <img stlye="max-with: 500px; height: auto; with: auto;" src="Screen Shot 2021-10-29 at 7.10.28 PM.png" alt="Test results by printfTester" />
-<hr/>
 # Norminetter results
 Checked with norminette 3.3.40
 * What is norminette -> https://cdn.intra.42.fr/pdf/pdf/960/norme.en.pdf .
