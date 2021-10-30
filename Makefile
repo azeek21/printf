@@ -3,7 +3,8 @@ CC = gcc
 CFLAGS = -Wall -Wextra -Werror -I. -c
 FILES = ft_itoa.c \
 		ft_printf.c \
-		printf_utils.c
+		printf_utils.c \
+		printf_utils2.c
 
 OBJ = $(FILES:%.c=%.o)
 
